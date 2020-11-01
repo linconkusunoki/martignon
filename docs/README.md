@@ -41,7 +41,7 @@ Santa Maria Rotonda configura-se assim como um espaço de extrema simplicidade g
 
 É certamente um dos modelos tipológicos mais elementares de um edifício sagrado, mas é precisamente nisso que reside o interesse que o edifício é capaz de despertar.
 
-![Santa Maria Rotonda](/images/santa_maria_rotonda_2.jpg)
+![Santa Maria Rotonda](/images/santa_maria_rotonda_2.jpg?1)
 
 Santa Maria nasceu como uma capela privada desejada e construída pela família Martignoni, enquanto não se sabe muito sobre a situação de Vico Seprio no último quartel do século XV. O que podemos tentar fazer, no entanto, é delinear os traços fundamentais do panorama cultural que produziu tal construção a partir do conhecimento sobre o território mais amplo do Ducado de Milão.
 
