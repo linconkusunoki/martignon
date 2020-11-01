@@ -120,7 +120,7 @@ Em 20 de julho de 1895, o Governo Italiano proíbe terminantemente a emigração
 ## Família da expedição Tabacchi
 
 | NOME                      | ORIGEM                     |
-| ------------------------- |:--------------------------:|
+| ------------------------- | -------------------------- |
 | Abdermarcher Domenico	    | Roncegno                   |
 | Angeli Giobatta	          | Novaledo                   |
 | Armallao Andrea	          | Borgo V.na                 |
@@ -157,7 +157,7 @@ Em 20 de julho de 1895, o Governo Italiano proíbe terminantemente a emigração
 | Lazzari Annibale          |                            |
 | Lira Giacomo              | Castelnuovo                |
 | Margoni Costante          |                            |
-| Martignoni Giuseppe       | Novaledo                   |
+| **Martignoni Giuseppe**   | **Novaledo**               |
 | Martinelli Don Domenico   | Centa                      |
 | Merlo Enrico              | Covelo                     |
 | Merlo Francesco           | Covelo                     |
