@@ -27,6 +27,10 @@ Bartolomeo, Capitão, se destacou ao serviço da República de Veneza em 1415.
 
 ## A igreja de Santa Maria Rotonda
 
+[Ver no Google Earth](https://earth.google.com/web/@45.71790243,8.86384429,318.80767171a,194.81374879d,35y,38.95016442h,51.26319026t,0r/data=CksaSRJDCiUweDQ3ODY4NzAwNjhiYmNlODM6MHg0OGVhNmM1MWQ3MThlM2M4KhpDaGllc2EgU2FudGEKTWFyaWEgUm90b25kYRgCIAE)
+
+![Santa Maria Rotonda](/images/santa_maria_rotonda_1.jpg)
+
 A igreja de Santa Maria Rotonda foi fundada pela família Martignoni em 1488 como capela privada, na periferia da localidade de Vico Seprio, à entrada da localidade.
 
 Apresenta-se como uma estrutura bastante pequena, tendo um diâmetro externo de apenas 7 metros, e com uma estrutura formal muito linear: é composta pelo conjunto de dois sólidos simples: um cilindro, que constitui o tambor básico e uma tampa hemisférica sobreposto a ele que forma a cúpula. A entrada do edifício é constituída por um pronaos com cobertura em tímpano sustentado por duas colunas monolíticas, provavelmente edificadas posteriormente. Abaixo das encostas do pronaos, na porção de alvenaria acima do portal, é ainda visível uma luneta semicircular, ao retirar as telhas, no interior das quais se lêem vestígios de um afresco que representa, com toda a probabilidade, a Sagrada Família.
@@ -37,6 +41,8 @@ Santa Maria Rotonda configura-se assim como um espaço de extrema simplicidade g
 
 É certamente um dos modelos tipológicos mais elementares de um edifício sagrado, mas é precisamente nisso que reside o interesse que o edifício é capaz de despertar.
 
+![Santa Maria Rotonda](/images/santa_maria_rotonda_2.jpg)
+
 Santa Maria nasceu como uma capela privada desejada e construída pela família Martignoni, enquanto não se sabe muito sobre a situação de Vico Seprio no último quartel do século XV. O que podemos tentar fazer, no entanto, é delinear os traços fundamentais do panorama cultural que produziu tal construção a partir do conhecimento sobre o território mais amplo do Ducado de Milão.
 
 É agora unanimemente aceite que na Lombardia, até à última década do século XV, persiste uma tradição de construção profundamente enraizada de matriz gótica tardia, que encontra os seus expoentes mais ilustres nos irmãos Solari, uma tradição da qual nenhuma arquitectura significativa difere, como prova de um clima cultural fortemente permeado por uma tradição de origem medieval difícil de arranhar e penetrar.
@@ -44,6 +50,8 @@ Santa Maria nasceu como uma capela privada desejada e construída pela família 
 Por outro lado, já em meados de 1400, assistimos à chegada a Milão, na corte ducal, das primeiras "vanguardas" do Humanismo Toscano, mas as novas teorias sobre a concepção do espaço e da composição formal levarão mais de cinquenta anos para se difundir. nas áreas periféricas da Lombardia.
 
 Encontramo-nos, portanto, num panorama cultural para o qual, no final dos anos oitenta do século XV, o edifício da Santa Maria Rotonda apresenta características tipológicas bastante inovadoras face à forma comum de construir na zona envolvente.
+
+![Santa Maria Rotonda](/images/santa_maria_rotonda_3.jpg)
 
 Santa Maria Rotonda configura-se, de facto, como a síntese extrema do edifício com um sistema centralizado, tipologia que adquiriu um papel importante precisamente na época do Renascimento.
 
