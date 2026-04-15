@@ -2,7 +2,7 @@
 
 Martignon é típico das províncias de Veneza, Pádua e Treviso; Martignone, muito raro, parece pertencer aos genoveses; Martignoni tem um núcleo principal na área de Milan e Como, uma linhagem na área de Mântua e outra na área de Bolonha que poderia derivar do topônimo Martignone, uma localidade de San Giovanni in Persiceto (BO), todos são derivações dialetais do nome Martinus, este uso tem um exemplo no milanês 1400 com um certo Martignone del Roncaccio mencionado em um ato, vestígios desse sobrenome encontramos na região de Como no início de 1600 com um certo Camillo Martignone.
 
-Nossa família Martignoni de origem italiana é classificada como sendo originária de nome pessoal; muitos nomes de família, na verdade a maioria, é derivada do nome pessoal do pai ou da mãe do portador. O nome era aplicado como uma palavra que qualificava a pessoa, um epíteto distintivo, o qual era acrescentado depois do primeiro nome do portador. Nesse caso, nossa família Martignoni deriva do nome pessoal italiano Martino aumentado do sufixo “oni”. Assim o nosso sobrenome Martignoni significa: “filho do grande Martino”.
+Nossa família Martignon de origem italiana é classificada como sendo originária de nome pessoal; muitos nomes de família, na verdade a maioria, é derivada do nome pessoal do pai ou da mãe do portador. O nome era aplicado como uma palavra que qualificava a pessoa, um epíteto distintivo, o qual era acrescentado depois do primeiro nome do portador. Nesse caso, nossa família Martignoni deriva do nome pessoal italiano Martino aumentado do sufixo “oni”. Assim o nosso sobrenome Martignoni significa: “filho do grande Martino”.
 
 O nome pessoal Martino ou Martin, é derivado do latim “Martinus” ou “Mars, Martis” que significa: “consagrado, dedicado ao deus Marte (deus da guerra)”.
 
@@ -78,7 +78,29 @@ Este tipo de representação, por outro lado, está bem relacionado com a dedica
 
 ![Família](/images/cover.jpg)
 
-Eles nasceram na pequena cidade de Novaledo (na Província de Trento) e vieram para o Brasil na Expedição Tabbachi (em um vapor chamado "La Sofia" em fevereiro de 1874). Naquele tempo, no período que antecede a 1880, as viagens eram muito longas (cerca de 30, 40 dias). Eles chegavam no Brasil, como outros imigrantes italianos, com uma grande família na procura de trabalho e novas oportunidades de comércio e agricultura. Neste período o Brasil estava trocando a mão-de-obra escrava pela mão-de-obra de outros países europeus, especialmente Itália e Alemanha (eles chegavam principalmente no sul e sudeste do Brasil).
+### Das terras do Vêneto ao interior paulista
+A história da família começa no nordeste da Itália, na região do Vêneto, na Província de Padova. É lá que o sobrenome Martignon tem suas raízes mais profundas — um nome de origem latina, derivado de Martinus, popularizado pelo culto a São Martinho de Tours durante a Idade Média, e que ganhou ao longo dos séculos a terminação em -on característica do dialeto vêneto.
+O membro mais antigo identificado até o momento é Bernardo Martignon, cujo filho Angelo aparece nos registros de recrutamento militar da Província de Padova. As pesquisas apontam para a região de Borgoricco e Villanova di Camposampiero, dois municípios vizinhos no mandamento de Camposampiero, como prováveis berços da família — uma área rural a cerca de 25 quilômetros ao norte de Pádua, marcada por campos agrícolas, canais e pequenas comunidades camponesas que, no final do século XIX, viveriam uma profunda crise econômica.
+
+### Angelo Martignon — o imigrante
+Foi Angelo Martignon, filho de Bernardo e Maria Borlin, quem cruzou o Atlântico e fundou a linhagem brasileira da família.
+Em 13 de fevereiro de 1889, Angelo desembarcou no porto de Santos a bordo do vapor S. Gottardo, acompanhado de sua esposa Antonia e de um filho pequeno chamado Vincenzo. Tinha por volta de 35 a 40 anos e a profissão de agricultor. O registro oficial da Hospedaria dos Imigrantes de São Paulo — o centro de recepção e triagem de imigrantes na capital paulista — documenta a chegada da família com precisão, incluindo o destino imediato: a Fazenda Victoria, propriedade do Dr. Queiróz Telles, família tradicional do café paulista.
+Como dezenas de milhares de italianos que chegaram ao Brasil no mesmo período, Angelo e sua família foram encaminhados para trabalhar nas lavouras de café do interior paulista, no auge do ciclo cafeeiro que havia transformado São Paulo na província mais próspera do Império.
+A vida nas fazendas era dura. Pouco tempo após a chegada, Antonia morreu — provavelmente vítima de febre amarela ou malária, doenças que ceifavam muitas vidas nos cafezais do interior. Angelo, já estabelecido na região de Leme, casou-se novamente com Judith Bessari, filha de outra família de imigrantes italianos radicada na mesma área. Com Judith, teria quatro filhos: Eugênio (1890), João (1892), Vicente (1894) e Victorio (1900). O nome do filho caçula é provavelmente uma homenagem à fazenda onde a família começou a nova vida no Brasil — a Fazenda Victoria.
+Judith faleceu em 1900, deixando Angelo viúvo pela segunda vez aos 50 anos. Ele viveria mais duas décadas no município de Leme, e morreria em 20 de dezembro de 1920, na Fazenda Cresciumal, vítima de uma hemorragia cerebral. Tinha cerca de 65 anos. O declarante do óbito, um vizinho chamado Antonio Da Róz, registrou no cartório que Angelo era natural da Itália e "filho de pais ignorados" — informação que os documentos genealógicos posteriores contradizem parcialmente, apontando Bernardo Martignon como seu pai.
+É também nesse momento que o sobrenome se transforma. Nos documentos brasileiros, Martignon passa a ser grafado como Martinhão — uma adaptação fonética natural: o som "gn" do italiano, nasal como o "nh" do português, virou literalmente "-nhão", preservando inclusive o sufixo aumentativo original. A família italiana que chegou ao Brasil como Martignon ficou conhecida, a partir da segunda geração, como Martinhão.
+
+### Vicente Martinhão — o bisavô
+O terceiro filho de Angelo, Vicente Martinhão, nasceu em 12 de outubro de 1894, em Leme, São Paulo. Em 9 de outubro de 1915, casou-se com Maria Girotto — filha de outra família de imigrantes vênetos, cujo sobrenome é característico da região de Pádua e Vicenza.
+Vicente seguiu o caminho de muitos filhos de imigrantes italianos em São Paulo: acompanhou a "frente pioneira" do café rumo ao interior. Enquanto o pai havia chegado na região de Leme, Vicente acabaria seus dias em Oscar Bressane, município na região de Marília, a mais de 300 quilômetros a oeste — um deslocamento que representa, em si, a história da expansão agrícola paulista ao longo das primeiras décadas do século XX.
+Lavrador como o pai, Vicente morreu em 14 de junho de 1939, aos 44 anos. Deixou pelo menos oito filhos, entre eles Jorge Martinhão, que daria continuidade à família até os dias de hoje.
+
+### O que ainda está por descobrir
+Esta história está sendo reconstruída com base em documentos primários — registros da Hospedaria dos Imigrantes, certidões de óbito, listas de recrutamento militar italianas e registros do Family Tree. Alguns pontos permanecem em aberto e são objeto de pesquisa ativa:
+
+A certidão de batismo de Angelo na Itália, que confirmaria definitivamente os nomes de seus pais e o município exato de origem
+O paradeiro de Vincenzo, filho de Angelo e Antonia, que chegou ao Brasil em 1889 e não aparece nos registros posteriores
+Os registros de nascimento dos filhos de Vicente, que conectariam documentalmente a linhagem italiana aos descendentes brasileiros de hoje
 
 ## Brasão da Família
 
